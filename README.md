@@ -2,7 +2,7 @@
 
 Before starting the project do a few actions:
 
-  - In the folder "scr" create a folder "hoc"
+  - In the folder "src" create a folder "hoc"
   - In the folder "hoc" create the file "Aux.js"
   - Add the code below to the file "Aux.js"
  
